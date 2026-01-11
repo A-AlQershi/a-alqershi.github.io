@@ -1,0 +1,66 @@
+.pageHeader {
+  background-image: url(images/image1.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 10px;
+}
+.headerContent {
+  background-color: rgba(255, 255, 255, 0.788);
+  width: 800px;
+  text-align: center;
+  margin: auto;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  padding: 12px;
+  border-radius: 12px;
+}
+table {
+  width: 100%;
+  border: 2px solid black;
+  border-collapse: collapse;
+  border-radius: 18px;
+}
+thead th {
+  background-color: rgb(160, 88, 255);
+  border: 2px solid black;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 12px 18px;
+  text-transform: capitalize;
+}
+tbody td {
+  text-transform: capitalize;
+  border: 2px solid black;
+  text-align: center;
+  padding: 12px 18px;
+}
+section,
+aside {
+  background-color: white;
+  border: 2px solid rgb(111, 0, 255);
+  border-radius: 12px;
+  width: 900px;
+  margin: auto;
+  /* add internal distance for top and bottom with value 12
+                and internal distance for left and right with value 24 */
+  padding: 12px 24px;
+  margin-bottom: 18px;
+  margin-top: 12px;
+}
+video {
+  width: 600px;
+  height: 350px;
+  display: block;
+  margin: auto;
+}
+#summ {
+  text-align: center;
+}
+#lorem {
+  margin-left: 17%;
+  margin-right: 17%;
+}
+#foot {
+  text-align: right;
+}
