@@ -52,3 +52,6 @@ No build steps are required. Open index.html in any modern browser.
 ## Contributing
 
 For small exercises or coursework, contributions can be made via pull requests. Keep changes focused and include brief descriptions of what was adjusted.
+
+## Product link
+<https://a-alqershi.github.io/Semantic-HW/>
